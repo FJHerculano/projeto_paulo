@@ -1,0 +1,10 @@
+cara trouxe aqui a minha tentativa com o php
+onde escrevi.. apaguei... fiz coisa .. desfiz
+e o com node que fiz com nicolas me auxiliando
+não consegui fazer conexão com o banco de 
+dados com o de node, e o de php eu me perdi...
+no codigo. espero que considere o que tenho feito
+em node. onde eu trago o basico do que foi pedido no 
+trabalho.
+
+SEJA CARINHOSO EU PRECISO DE PONTO <3
